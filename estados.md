@@ -4,6 +4,6 @@
     <a href="https://vereadores.github.io/dados/{{ estado.sigla }}.html">
       {{ estado.nome }}
     </a>
-  </li>
+  </li> 
 {% endfor %}
 </ul>
